@@ -9,9 +9,7 @@ visit-> https://mnaushad97.github.io/Quiz97/
 > Allow the images to load
 
 
-
 <img src="https://github.com/MNaushad97/Quiz97/blob/main/quizOverview.gif"/>
-
 
 
 
