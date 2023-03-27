@@ -1,4 +1,4 @@
-#  Time-Bound Quiz using React.js + Tailwind CSS
+# Time-Bound Quiz using React.js + Tailwind CSS
 
 visit-> https://mnaushad97.github.io/Quiz97/
 
