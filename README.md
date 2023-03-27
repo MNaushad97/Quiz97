@@ -4,8 +4,9 @@ visit-> https://mnaushad97.github.io/Quiz97/
 
 **used React+Tailwind CSS**
 
-### →  Can Navigate Through Questions
-### →  Has a Answer Review Section
+- Can Navigate Through Questions
+- Has a Answer Review Section
+
 > Allow the images to load
 
 
