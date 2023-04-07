@@ -25,3 +25,4 @@ visit-> https://mnaushad97.github.io/Quiz97/
 
 <img src="https://github.com/MNaushad97/Quiz97/blob/main/quizTimesUp.gif" />
 
+
